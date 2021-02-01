@@ -58,6 +58,8 @@ body{
    justify-content: center;
    line-height: 25px;
    padding: 5px;
+   margin-top: 10px;
+   margin-bottom: 5px;
    font-weight: 300;
 }
 
@@ -68,6 +70,7 @@ body{
    font-weight: 300;
    line-height: 25px;
    padding: 5px;
+   margin-bottom: 10px;
 }
 
 
